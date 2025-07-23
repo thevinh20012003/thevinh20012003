@@ -1,5 +1,9 @@
 ## Hi there 👋
+💼 About Me
 
+I am a fourth-year Software Engineering student with a strong interest in backend development, particularly using Java. I have a solid foundation in Java Core and Object-Oriented Programming (OOP), and I have successfully built several personal projects utilizing JSP/Servlet and Spring Boot frameworks with relational databases such as MySQL and SQL Server.
+I am experienced in developing RESTful APIs, managing database operations, and working with essential tools like Git, Maven, and Postman. Additionally, I have basic knowledge of Docker and cloud deployment using AWS EC2. I also possess a foundational understanding of Angular and frontend technologies including HTML, CSS, JavaScript, and Thymeleaf.
+I am a proactive and fast learner with strong teamwork, communication, and time management skills. With a logical and problem-solving mindset, I am eager to contribute to a dynamic working environment and continuously expand my technical skill set.
 <!--
 **thevinh20012003/thevinh20012003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
