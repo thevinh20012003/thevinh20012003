@@ -3,6 +3,26 @@
 <h3 align="center">💻 Passionate about backend development and building scalable systems</h3>
 <h3 align="center">🚀 Always eager to learn new technologies and contribute to open-source</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif"/>
+</div>
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thevinh20012003&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=thevinh20012003&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevinh20012003" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevinh20012003&label=Profile%20views&color=0e75b6&style=flat" alt="thevinh20012003" /> </p>
 
 <p align="left"> <a href="https://github.com/thevinh20012003"><img src="https://github-profile-trophy.vercel.app/?username=thevinh20012003" alt="thevinh20012003" /></a> </p>
@@ -153,8 +173,4 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevinh20012003&show_icons=true&locale=en&layout=compact" alt="thevinh20012003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevinh20012003&show_icons=true&locale=en" alt="thevinh20012003" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevinh20012003&" alt="thevinh20012003" /></p>
